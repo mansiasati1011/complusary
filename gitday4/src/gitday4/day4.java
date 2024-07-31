@@ -13,4 +13,5 @@ public class day4 {
 	{   
 		System.out.println("m3 method");
  }
+}
 
